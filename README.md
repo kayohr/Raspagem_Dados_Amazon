@@ -1,4 +1,4 @@
-Raspagem de dados das páginas reviews dos usuários da Amazon para verificar as avaliações dos livros, tanto em estrelas e comentarios.
+Raspagem de dados das páginas reviews dos usuários da Amazon para verificar as avaliações dos livros, tanto comentarios e em estrelas de 1 a 5.
 
 Utilizando selenium, pandas, docker e VNC na Web.
 
